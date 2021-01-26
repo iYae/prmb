@@ -4,6 +4,8 @@ const Discord = require('discord.js');
 // Create an instance of a Discord client
 const client = new Discord.Client();
 
+const token = 'ODAzNjcxNzY2NjAwOTA4ODUx.YBBLqA.DZJj8S5VVcSxVbB7l4bmOoviUY0'
+
 /**
  * The ready event is vital, it means that only _after_ this will your bot start reacting to information
  * received from Discord
